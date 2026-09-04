@@ -1,0 +1,28 @@
+# Local git-based incremental history (KiCad 9.0+)
+.history/
+
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-bak
+*~
+_autosave-*
+*.tmp
+
+# KiCad local user configurations (window positions, active layers, etc.)
+*.cmdr
+*.kicad_prl
+
+# KiCad ERC/DRC report files
+*.rpt
+
+# KiCad 3D viewer cache and project-specific libraries
+# (Uncomment the line below if you generate 3D models locally and don't want to track them)
+fp-info-cache
+
+# Output directories (Gerbers, BOMs, etc.)
+# If you use standard plotting paths, ignore them so they don't clutter git.
+# Remove the '#' to ignore these folders if you generate them in your project root.
+#[Gg]erber/
+#[Oo]utput/
