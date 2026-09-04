@@ -22,4 +22,4 @@ This minimal component design serves as a drop-in replacement for OM345s in the 
 I'd like to acknowledge the great community group **Marconi-Test-Instruments** located at [groups.io](https://groups.io/g/Marconi-Test-Instruments)
 which have been an absolute fountain of knowledge and provided me with lots of help.
 
-My other source of knowledge has come from RFMAN's [YouTubel](https://www.youtube.com/@rfmanrfman4536) channel. He provides a lot of useful detail on repairing the MI2955.
+My other source of knowledge has come from RFMAN's [YouTube](https://www.youtube.com/@rfmanrfman4536) channel. He provides a lot of useful detail on repairing the MI2955.
