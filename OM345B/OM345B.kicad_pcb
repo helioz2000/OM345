@@ -570,13 +570,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0 -1.43 0)
+			(at 0.6375 1.2 0)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "32145d14-87b4-4ca8-8d8a-ad8fe4fdafa0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -728,10 +727,9 @@
 		(uuid "8c326edf-1a18-428e-82fa-d393bda2252a")
 		(at 106.5 93 -90)
 		(property "Reference" "U1"
-			(at 3.3 -2.1 270)
+			(at -1.8 2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "6992ead5-f5d7-411f-ae78-abf6e392bfd1")
 			(effects
 				(font
@@ -783,12 +781,6 @@
 		(path "/b55e040f-76b9-4ae0-8be1-013419e2f814")
 		(sheetname "/")
 		(sheetfile "OM345B.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "4" "2" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -814,7 +806,7 @@
 			(uuid "555e5d5f-c1f9-4efd-ac1b-dc748a3b0ca9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5 1.5 270)
+			(at -5.4 0.1 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "2088f2fe-28e7-4b61-9ec3-c516cf344ddb")
@@ -862,6 +854,17 @@
 			(uuid "a8a110c3-806c-4052-be71-2bef5b763698")
 		)
 		(embedded_fonts no)
+		(model "/Users/eb/Downloads/VV105_MiniCircuits.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -870,13 +873,12 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L1"
-			(at -3 -1.5 0)
+			(at 0.6 1.3 0)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "de5d042f-2ae5-4e04-84c5-e608d12ed353")
+			(uuid "5c029069-1555-428a-94f1-78cc64825c49")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -885,7 +887,7 @@
 			(at 1.875 -3 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b367fd39-dcc6-4506-bf6a-407a8506ba92")
+			(uuid "17f19b8d-0c16-44d0-b995-d47d7510e538")
 			(effects
 				(font
 					(size 1 1)
@@ -897,7 +899,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef788af7-7cdb-4eb5-bd59-8952ba294760")
+			(uuid "0c55bd22-db31-4379-b1ab-631f08bac980")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -908,7 +910,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75230143-5d21-4156-bcb0-70be5e4be0a9")
+			(uuid "ce5ba267-9df3-47bf-a4b6-b87e2920a6c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1032,13 +1034,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 3.4125 0.5 0)
+			(at 0.2125 1.4 0)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8cb53f9e-535c-4500-9140-4679667708a7")
+			(uuid "c2ed1ed6-1403-4e7e-aa3a-3723bb3e2fa8")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -1047,7 +1048,7 @@
 			(at 2.9125 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b9a58e8-45c1-40ed-93fa-2296c81e82ae")
+			(uuid "561509fd-f669-4b27-8203-6c0ee32394f8")
 			(effects
 				(font
 					(size 1 1)
@@ -1059,7 +1060,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56c1b41d-85e1-4bcd-845f-29afd9f985fb")
+			(uuid "09b76bdb-0479-4d56-8b88-5a8a2cb033ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1070,7 +1071,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a754f3e-316a-45dd-9417-95370ca26ef2")
+			(uuid "2e177e04-9cd0-4314-8885-2ee55be258e5")
 			(effects
 				(font
 					(size 1.27 1.27)

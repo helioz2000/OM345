@@ -943,12 +943,6 @@
 		(path "/b55e040f-76b9-4ae0-8be1-013419e2f814")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "4" "2" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -1022,6 +1016,17 @@
 			(uuid "a8a110c3-806c-4052-be71-2bef5b763698")
 		)
 		(embedded_fonts no)
+		(model "/Users/eb/Downloads/VV105_MiniCircuits.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -1515,7 +1520,7 @@
 			(at 5.5 1 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2b1ce291-c47e-426f-ba90-ae440c25aa0b")
+			(uuid "bbb9948b-e2eb-4cbb-b64c-9a65fd4c8453")
 			(effects
 				(font
 					(size 1 1)
@@ -1527,7 +1532,7 @@
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91fe490c-69c9-496c-889e-a1fb389d4bee")
+			(uuid "fc73ec64-e183-4e08-a154-a408c554cc68")
 			(effects
 				(font
 					(size 1 1)
@@ -1539,7 +1544,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5c42e6c-fa8f-42f0-9b44-f7fc991c7ed8")
+			(uuid "03773562-6888-4579-b6c9-b7371ccfb8b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1550,7 +1555,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9efc87ed-beb9-4b97-892a-90411e2a8f8e")
+			(uuid "2501e0b9-11d0-4f51-befa-17d7a3522541")
 			(effects
 				(font
 					(size 1.27 1.27)
