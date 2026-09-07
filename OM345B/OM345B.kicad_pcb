@@ -854,7 +854,7 @@
 			(uuid "a8a110c3-806c-4052-be71-2bef5b763698")
 		)
 		(embedded_fonts no)
-		(model "/Users/eb/Downloads/VV105_MiniCircuits.step"
+		(model "/Users/eb/KiCad/projects/OM345/VV105_MiniCircuits.step"
 			(offset
 				(xyz 0 0 0)
 			)

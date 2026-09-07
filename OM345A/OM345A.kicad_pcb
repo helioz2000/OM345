@@ -194,12 +194,6 @@
 		(path "/ba1618df-7776-47e4-8261-f24ff7704fa8")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -354,12 +348,6 @@
 		(path "/b60df288-2f67-4f95-b5e6-5a2aada9d3c6")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -631,12 +619,6 @@
 		(path "/db22030e-db94-4d1a-8fc9-3c4f626360c2")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -791,12 +773,6 @@
 		(path "/16ee2b26-eb5b-4c95-babb-1cf7b2b4471e")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1016,7 +992,7 @@
 			(uuid "a8a110c3-806c-4052-be71-2bef5b763698")
 		)
 		(embedded_fonts no)
-		(model "/Users/eb/Downloads/VV105_MiniCircuits.step"
+		(model "/Users/eb/KiCad/projects/OM345/VV105_MiniCircuits.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1096,12 +1072,6 @@
 		(path "/4be17da5-cf7a-4714-bf73-67bbd5014b59")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1258,12 +1228,6 @@
 		(path "/a2a7af4d-415c-47a4-a74a-0a87ae3029bd")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1418,12 +1382,6 @@
 		(path "/4dbc93ea-7ab9-4607-ac99-23dfd3c24857")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1578,12 +1536,6 @@
 		(path "/4999715e-9aba-41e9-b038-13323d15bb2c")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1743,12 +1695,6 @@
 		(path "/02136aec-5bfd-4122-89a5-de8d986afeb7")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1909,12 +1855,6 @@
 		(path "/14a82eae-0c28-4e83-84e5-ae159fe706f5")
 		(sheetname "/")
 		(sheetfile "OM345A.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
