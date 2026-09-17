@@ -1026,6 +1026,46 @@
 		)
 		(uuid "3ab8417c-8276-4a1b-a7a0-35aa844cb37d")
 	)
+	(text ""
+		(exclude_from_sim no)
+		(at 73.914 121.666 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "9132d651-46f5-4654-911c-43f0618fe17e")
+	)
+	(text ""
+		(exclude_from_sim no)
+		(at 74.93 121.412 0)
+		(effects
+			(font
+				(size 12.954 12.954)
+			)
+		)
+		(uuid "d65436b1-2ceb-440f-a094-fbc5d1fdff6f")
+	)
+	(text "Attenuation pad my be\nbypassed by zero Ohm R3\nand R4 R5 not installed"
+		(exclude_from_sim no)
+		(at 73.66 133.35 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d8686ed5-a49d-436a-8023-c85609cda758")
+	)
+	(text ""
+		(exclude_from_sim no)
+		(at 82.55 121.666 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d9f65069-6522-4c52-b332-4591cd4eb4b1")
+	)
 	(junction
 		(at 133.35 91.44)
 		(diameter 0)

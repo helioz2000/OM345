@@ -1,6 +1,9 @@
 # Local git-based incremental history (KiCad 9.0+)
 .history/
 
+# macOS
+*.DS_Store
+
 # KiCad temporary and backup files
 *.bak
 *.kicad_pcb-bak
